@@ -1,0 +1,27 @@
+@media (max-width: 1199.5px){
+    
+}
+@media (max-width: 1024px){
+    /* side nav  */
+    
+    
+}
+@media (max-width: 991px){
+    /* side nav  */
+    
+}
+@media (max-width: 767px){
+    /* banner blog  */
+    .navigration .banner-content{
+        width: 100%;
+    }
+    
+
+}
+@media (max-width: 575.5px){
+    /* side nav  */
+    
+}
+@media (max-width: 390px){
+    /* side nav  */
+}
